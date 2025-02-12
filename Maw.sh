@@ -9,7 +9,7 @@
 # Modified 02.12.2025 @theahadub 
 #    - file name for the plist changed adding a random string to the Warranty.plist
 #    - Set your EA to Data Type = Date
-#    - So far, this only works on Arm Macs
+#    - So far, this only works on Arm Macs but not all of them.  The file is missing from some.
 #
 # expanded version of this script at https://community.jamf.com/t5/jamf-pro/command-line-to-show-the-applecare-status-and-expirate-date-for/m-p/279161
 
